@@ -1,4 +1,4 @@
-#BDMRipper
+BDMRipper
 
 Overview
 
