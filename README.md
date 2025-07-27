@@ -59,27 +59,27 @@ python3 bdm_interface.py --console
 
 Examples
 	•	Connect to target:
-'''
+```
 init
-'''
+```
 
 Write memory
 
-'''
+```
 wm 0x20000000 0xDEADBEEF
-'''
+```
 
 Memory Dump to File
 
-'''
+```
 dumpfile 0x20000000 0x20001000 sram_dump.bin bin
-'''
+```
 
 Quickdump ROM
 
-'''
+```
 quickdump bootrom
-'''
+```
 
 
 Notes
